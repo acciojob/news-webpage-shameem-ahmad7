@@ -4,7 +4,7 @@
     padding: 0;
 }
 
-.header{
+header{
     background-color: #011e29;
     width: 100vw;
     color: #f5f5f5;
@@ -33,6 +33,7 @@ img{
 .pictorial-news-section{
     margin: 10px;
     padding: 10px;
+	text-align:center;
 }
 h2,h3{
     text-align: center;
